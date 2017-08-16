@@ -1,5 +1,6 @@
 # Introduction to Data Science with Python
 In this [Houston Data Science][1] meetup we will introduce our members to data science using the Python programming language.
+Ben Anunne - Data Science from scratch Part 1, 08-15-2017
 
 ## Objectives
 
